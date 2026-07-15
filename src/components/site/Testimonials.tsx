@@ -107,10 +107,10 @@ export function Testimonials() {
               transition={{ delay: 0.1 }}
               className="text-3xl font-light tracking-tight text-white md:text-4xl lg:text-5xl"
             >
-              What our clients
+              What detour
               <br />
               <span className="bg-gradient-to-r from-yellow-400 to-amber-400 bg-clip-text text-transparent">
-                say about us
+                brings
               </span>
             </motion.h2>
           </div>
